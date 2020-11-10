@@ -1,0 +1,29 @@
+{
+  "macros": {
+    "french": {
+      "name": "French",
+      "code": "F",
+      "websites": [
+        "duolingo.com",
+        "translate.google.com/#view=home&op=translate&sl=auto&tl=fr",
+        "wordreference.com"
+      ],
+      "programs": [
+        "C:\\Users\\sm564\\Documents\\duolingo notes.txt",
+        "C:\\Program Files\\Anki\\anki.exe"
+      ]
+    },
+    "stocks": {
+      "name": "Stocks",
+      "code": "S",
+      "websites": [
+        "finance.yahoo.com",
+        "sec.gov/edgar/searchedgar/companysearch.html"
+      ],
+      "programs": [
+        "C:\\Users\\sm564\\Documents\\jkl\\Home.xlsx"
+      ]
+    }
+  },
+  "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+}
